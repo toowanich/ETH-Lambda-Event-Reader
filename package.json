@@ -1,0 +1,22 @@
+{
+    "name": "contractmonitoring",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "^2.1073.0",
+        "aws-web3-ws-provider": "^1.0.2",
+        "dotenv": "^16.0.0",
+        "n": "^8.0.2",
+        "node-fetch": "^3.2.0",
+        "nvm": "0.0.4",
+        "web3": "^1.7.0",
+        "xhr2": "^0.2.1"
+    }
+}
